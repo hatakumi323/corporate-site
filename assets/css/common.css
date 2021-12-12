@@ -22,28 +22,14 @@ a:hover {
   opacity: 0.5;
 }
 
+.none {
+  display: none;
+}
+
 *,
 *::before,
 *::after {
   box-sizing: border-box;
-}
-
-.header {
-  height: 50px;
-  width: 100%;
-  background-color: #000;
-}
-
-.header h1 {
-  color: #fff;
-  text-align: left;
-  padding: 12px 24px;
-  font-size: 1.6rem;
-}
-
-.header h1 a {
-  color: #fff;
-  text-decoration: none;
 }
 
 .option-button,
