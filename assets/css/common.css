@@ -24,10 +24,6 @@ a:hover {
   opacity: 0.5;
 }
 
-.none {
-  display: none;
-}
-
 *,
 *::before,
 *::after {
