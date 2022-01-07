@@ -120,13 +120,13 @@ a:hover {
     max-width: 1160px;
     margin: 0 auto;
   }
-  .footer.site-map {
+  .footer .site-map {
     padding: 0;
     font-weight: 400;
   }
-  .footer.site-map li {
+  .footer .site-map li {
     padding: 0;
-    margin: 10px;
+    margin-bottom: 10px;
   }
   .footer__copyright {
     font-size: 2rem;
